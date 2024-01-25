@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+a:-webkit-any-link {
+  text-decoration: none;
+}
 
 .App-logo {
   height: 40vmin;
