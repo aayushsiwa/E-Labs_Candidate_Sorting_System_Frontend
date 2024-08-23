@@ -1,5 +1,5 @@
 export const logo =
-  "https://scontent.fbbi2-1.fna.fbcdn.net/v/t39.30808-6/277747367_363386065802379_1340057208320285372_n.png?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=jKYr9BCG-t0AX9pAMfh&_nc_oc=AQmtfc6XkY9WNt55ggmAmAZ2V3NIImwZQ59nZGrMn3XQ1IDa308g3KfcOyT-EkGGJjk&_nc_ht=scontent.fbbi2-1.fna&oh=00_AfCG6jkgxRN3VXKD257MtQ6EGHaGxUx6NugVx2iMuu0J9Q&oe=65B530FE";
+  "https://elabskiit.in/static/media/Elabs%20logo%20black.e7a8e7af.png";
 export const carouselimages = [
   {
     id: "1",

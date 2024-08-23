@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, CardMedia, CardContent, Grid } from "@mui/material";
-import { Container } from "@mui/material/Container";
+// import { Container } from "@mui/material/Container";
 import DomainCard from "./DomainCard";
 import CodeIcon from "@mui/icons-material/Code";
 import AndroidIcon from "@mui/icons-material/Android";
@@ -18,7 +18,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Web-Development",
+      id: "web-development",
       title: "Web Development",
       desc: "A successful website does three things:\nIt attracts the right kinds of visitors.\nGuides them to the main services or product you offer.\nCollect Contact details for future ongoing relation.",
     },
@@ -31,7 +31,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Android-Development",
+      id: "android-development",
       title: "Android Development",
       desc: "Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites",
     },
@@ -57,7 +57,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Content-Writing",
+      id: "content-writing",
       title: "Content Writing",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -70,7 +70,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Graphics-Design",
+      id: "graphics-design",
       title: "Graphics Design",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -83,7 +83,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Videography&Editing",
+      id: "videography-editing",
       title: "Videography & Editing",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -96,7 +96,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "UI&UX",
+      id: "uiux",
       title: "UI/UX",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -109,7 +109,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "AR&VR-Game-Development",
+      id: "arvr-game-development",
       title: "AR/VR & Game Development",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -122,7 +122,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "AI&Machine-Learning",
+      id: "ai-ml",
       title: "AI&MachineLearning",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -135,7 +135,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Embedded-IOT",
+      id: "embedded-systems-iot",
       title: "Embedded Systems&IOT",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -148,7 +148,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Cloud-Computing",
+      id: "cloud-computing",
       title: "Cloud Computing",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
@@ -161,7 +161,7 @@ const DomainCardContainer = () => {
           }}
         />
       ),
-      id: "Marketing",
+      id: "marketing",
       title: "Marketing",
       desc: "The creative mind behind each and every post of ELabs are here...",
     },
