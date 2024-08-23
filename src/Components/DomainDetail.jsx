@@ -10,7 +10,7 @@ const DomainDetail = () => {
     const [data, setData] = useState([]);
     const [error, setError] = useState(null);
     const apiUrl = import.meta.env.VITE_APP_URL;
-    console.log(apiUrl);
+    // console.log(apiUrl);
 
     const title = id.replace("-", " ");
 
